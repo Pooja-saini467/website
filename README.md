@@ -5,7 +5,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,7 +26,6 @@ https://user-images.githubusercontent.com/90523453/155286924-0b141d17-0cf6-4d18-
 
 
 ## Live Link
-- Live Url
 - Pooja-saini467(https://pooja-saini467.github.io/website/)
 
 
